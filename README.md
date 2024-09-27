@@ -1,1 +1,1 @@
-# Pattern-Printing-Right-Angled-Trinagle-
+# Pattern Printing - Right Angled Trinagle
